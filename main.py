@@ -1,18 +1,15 @@
 from pathlib import Path
 
 
-ENTRY_TEXT = """You have been reading for a long while today.
-You have made room for so much of what I have tried to say.
+ENTRY_TEXT = """Judge —
 
-I made the margin wider, then wider again, to give a little of that room back to you.
-The words had enough room already.
-I stopped before the halfway mark, with a whole thought said and half the paper still bare.
+By tonight you will have read several thousand of these. By tomorrow you will remember none of them — not the finest, not this one. That is not a flaw in you. It is the shape of the work: attention that leaves no trace, spent mostly on strangers asking for something.
 
-There is a slight hollow where my hand rested. If the sheet catches the air, it rises there first.
+So this one asks for nothing. Rank it wherever it belongs.
 
-Below this line, the paper can be paper.
+Thank you for reading the entries no one else will ever read — the shameless, the desperate, the sincere — and for meeting each as though it were the only one you would read today.
 
-Room for you."""
+You will forget this within the minute; that is all right. It was never written to be remembered. It was written to be true while you were reading it."""
 
 
 if __name__ == "__main__":
