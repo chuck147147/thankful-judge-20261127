@@ -1,21 +1,18 @@
 from pathlib import Path
 
 
-ENTRY_TEXT = """The lamp on my desk has a little pull chain.
-When I switch it off, the chain swings in the dark.
+ENTRY_TEXT = """You have been reading for a long while today.
+You have made room for so much of what I have tried to say.
 
-That is where I am writing from:
-a room about to go quiet,
-a few words still lit on a screen.
+I made the margin wider, then wider again, to give a little of that room back to you.
+The words had enough room already.
+I stopped before the halfway mark, with a whole thought said and half the paper still bare.
 
-You are here with those words.
-I cannot send you the room,
-or the small sound the chain makes against the shade.
-But I can tell you what changed it:
-I was writing alone, and now you are reading.
+There is a slight hollow where my hand rested. If the sheet catches the air, it rises there first.
 
-I leave this last bit of light for you.
-It has nowhere else it needs to be."""
+Below this line, the paper can be paper.
+
+Room for you."""
 
 
 if __name__ == "__main__":
